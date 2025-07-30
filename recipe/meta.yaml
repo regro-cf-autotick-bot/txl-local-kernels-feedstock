@@ -23,7 +23,7 @@ requirements:
   run:
     - python >={{ python_min }}
     - txl =0.3.2
-    - txl-kernel
+    - txl-kernel >=0.3.6
     - pyzmq >=24.0.1
     - ipykernel
 
